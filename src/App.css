@@ -1,0 +1,63 @@
+
+/* navbar */
+.nav-btn {
+    @apply p-2 text-sm md:text-lg rounded-full cursor-pointer md:p-3;
+}
+
+.active {
+    @apply bg-blue-800 text-white font-semibold;
+}
+
+.not-active {
+    @apply bg-gray-200 hover:text-white hover:font-semibold transition ease-out duration-300;
+}
+
+/* landing page */
+
+.show-more {
+   @apply flex gap-1.5  items-center rounded-full py-2.5 px-4 border-none bg-blue-800 text-white font-semibold hover:text-black transition ease-out duration-300;
+}
+
+.view-all {
+    @apply text-blue-800 p-2 flex rounded-full items-center md:p-3 cursor-pointer border-blue-800 border gap-1.5 hover:bg-blue-800 hover:text-white transition ease-out duration-500;
+}
+
+
+
+/* propcard page */
+
+.prop-card {
+    @apply bg-white rounded-xl flex flex-col gap-5 p-2 hover:shadow-xl transition ease-out duration-300;
+}
+
+.upper-part {
+    @apply flex flex-col justify-between items-start p-5 relative bg-center bg-cover h-200;
+}
+
+.image {
+    @apply w-full absolute h-200 left-0 z-0 rounded-xl top-0 object-cover object-center;
+}
+
+.change-images {
+    @apply p-2 rounded-full  cursor-pointer hover:opacity-70;
+}
+
+.obj {
+    @apply border-2 border-white bg-yellow-800;
+}
+
+.current {
+    @apply bg-yellow-800;
+}
+
+.popular {
+    @apply bg-blue-800 shadow py-2.5 px-4  text-white text-sm font-semibold absolute -bottom-2 -left-2 rounded-r-xl;
+}
+
+.icon {
+   @apply flex flex-col gap-2.5 ;
+}
+
+.read-more {
+    @apply bg-blue-800 text-white font-semibold p-2.5 rounded-xl hover:bg-white hover:border hover:border-blue-800 hover:text-black transition ease-out duration-300;
+}

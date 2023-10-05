@@ -1,0 +1,563 @@
+[
+    {
+        "state": "London",
+        "properties" : [ 
+            {
+                "id": 1,
+                "address": "8558 Pecan St.",
+                "name": "RCE Theaters - 907 S Beckford Dr, Henderson, NC 27536",
+                "rooms": "3",
+                "beds": "4",
+                "bathroom": "1",
+                "size": "732 sft",
+                "price": "$7,225",
+                "popular": false,
+                "image": ["https://cf.bstatic.com/xdata/images/hotel/270x200/428389179.webp?k=1b23f6ad82282d77d8372d2f331e5a522a20346367dc4aa1b6a83cd5ebbac587&o="],
+                "availability": "For Rent",
+                "favorite": false
+            },
+
+            {
+                "id": 2,
+                "address": "8558 Parker Rd.",
+                "name": "Costco Wholesale - 1021 Oak Forest Ln, Myrtle Beach, SC",
+                "rooms": "3",
+                "beds": "4",
+                "bathroom": "1",
+                "size": "732 sft",
+                "price": "$7,225",
+                "popular": true,
+                "image": ["https://cf.bstatic.com/xdata/images/hotel/270x200/189752414.webp?k=ed35cb941111ddb4d77f73e439cd04006af0b54bc7055322ca832f6b75add91f&o=", "https://cf.bstatic.com/xdata/images/hotel/270x200/404000266.webp?k=ebea952c2a6b73060332faf214e6841a8a3a8eaa34ea3842ef12260e23ad9d29&o=", "https://cf.bstatic.com/xdata/images/hotel/square200/385236215.webp?k=d18067aa376c95ae9d41d72c23f42f82af7a8679503433eab6a76346053452cd&o=", "https://cf.bstatic.com/xdata/images/hotel/square200/109054847.webp?k=11a6f5b99f8222e9d3b8b56ed6b58ed92f284a3a0d21b959fd4862656f33601d&o=", "https://cf.bstatic.com/xdata/images/hotel/square200/269271250.webp?k=70a3eedc4ae15a73ba8f193e1b0c7111701264f9574241fe36fc87bbf155ca87&o="],
+                "availability": "For Rent",
+                "favorite": false
+            },
+
+            {
+                "id": 3,
+                "address": "3890 Popular Dr.",
+                "name": "Regal North Hills - 4150 Main at North Hills St, Releigh",
+                "rooms": "3",
+                "beds": "4",
+                "bathroom": "1",
+                "size": "732 sft",
+                "price": "$5,256",
+                "popular": true,
+                "image": ["https://cf.bstatic.com/xdata/images/hotel/270x200/404000266.webp?k=ebea952c2a6b73060332faf214e6841a8a3a8eaa34ea3842ef12260e23ad9d29&o=", "https://cf.bstatic.com/xdata/images/hotel/square200/385236215.webp?k=d18067aa376c95ae9d41d72c23f42f82af7a8679503433eab6a76346053452cd&o=", "https://cf.bstatic.com/xdata/images/hotel/square200/109054847.webp?k=11a6f5b99f8222e9d3b8b56ed6b58ed92f284a3a0d21b959fd4862656f33601d&o=", "https://cf.bstatic.com/xdata/images/hotel/square200/269271250.webp?k=70a3eedc4ae15a73ba8f193e1b0c7111701264f9574241fe36fc87bbf155ca87&o="],
+                "availability": "For Sale",
+                "favorite": false
+            },
+
+            {
+                "id": 4,
+                "address": "8558 Green Rd.",
+                "name": "Spring Lane Cinemas - 1351 Plaza Blvd, Sanford, NC 27330",
+                "rooms": "3",
+                "beds": "4",
+                "bathroom": "1",
+                "size": "732 sft",
+                "price": "$7,225",
+                "popular": false,
+                "image": ["https://cf.bstatic.com/xdata/images/hotel/270x200/325952091.webp?k=3c58e75986c1f54ecbe596dc07b94e3b5755f39f771910414a8a30846c229573&o="],
+                "availability": "For Rent",
+                "favorite": false
+            },
+
+            {
+                "id": 5,
+                "address": "8558 Green Rd.",
+                "name": "RCE Theaters - 907 S Beckford Dr, Henderson, NC 27536",
+                "rooms": "3",
+                "beds": "4",
+                "bathroom": "1",
+                "size": "732 sft",
+                "price": "$7,225",
+                "popular": true,
+                "image": ["https://cf.bstatic.com/xdata/images/hotel/270x200/325952091.webp?k=3c58e75986c1f54ecbe596dc07b94e3b5755f39f771910414a8a30846c229573&o=", "https://cf.bstatic.com/xdata/images/hotel/square200/385236215.webp?k=d18067aa376c95ae9d41d72c23f42f82af7a8679503433eab6a76346053452cd&o=", "https://cf.bstatic.com/xdata/images/hotel/square200/109054847.webp?k=11a6f5b99f8222e9d3b8b56ed6b58ed92f284a3a0d21b959fd4862656f33601d&o=", "https://cf.bstatic.com/xdata/images/hotel/square200/269271250.webp?k=70a3eedc4ae15a73ba8f193e1b0c7111701264f9574241fe36fc87bbf155ca87&o="],
+                "availability": "For Sale",
+                "favorite": false
+            },
+
+            {
+                "id": 6,
+                "address": "8558 Green Rd.",
+                "name": "Dollar General - 5416 Rock Quarry Rd, Raleigh, NC 27610",
+                "rooms": "3",
+                "beds": "4",
+                "bathroom": "1",
+                "size": "732 sft",
+                "price": "$7,225",
+                "popular": false,
+                "image": ["https://cf.bstatic.com/xdata/images/hotel/square200/269271250.webp?k=70a3eedc4ae15a73ba8f193e1b0c7111701264f9574241fe36fc87bbf155ca87&o="],
+                "availability": "For Rent",
+                "favorite": false
+            },
+
+            {
+                "id": 7,
+                "address": "8558 Green Rd.",
+                "name": "Spring Lane Cinemas - 1351 Plaza Blvd, Sanford, NC 27330",
+                "rooms": "3",
+                "beds": "4",
+                "bathroom": "1",
+                "size": "732 sft",
+                "price": "$7,225",
+                "popular": true,
+                "image": ["https://cf.bstatic.com/xdata/images/hotel/square200/385236215.webp?k=d18067aa376c95ae9d41d72c23f42f82af7a8679503433eab6a76346053452cd&o=", "https://cf.bstatic.com/xdata/images/hotel/square200/109054847.webp?k=11a6f5b99f8222e9d3b8b56ed6b58ed92f284a3a0d21b959fd4862656f33601d&o=", "https://cf.bstatic.com/xdata/images/hotel/square200/269271250.webp?k=70a3eedc4ae15a73ba8f193e1b0c7111701264f9574241fe36fc87bbf155ca87&o="],
+                "availability": "For Rent",
+                "favorite": false
+            },
+
+            {
+                "id": 8,
+                "address": "8558 Green Rd.",
+                "name": "RCE Theaters - 907 S Beckford Dr, Henderson, NC 27536",
+                "rooms": "3",
+                "beds": "4",
+                "bathroom": "1",
+                "size": "732 sft",
+                "price": "$7,225",
+                "popular": false,
+                "image": ["https://cf.bstatic.com/xdata/images/hotel/square200/109054847.webp?k=11a6f5b99f8222e9d3b8b56ed6b58ed92f284a3a0d21b959fd4862656f33601d&o="],
+                "availability": "For Sale",
+                "favorite": false
+            },
+
+            {
+                "id": 9,
+                "address": "8558 Green Rd.",
+                "name": "Dollar General - 5416 Rock Quarry Rd, Raleigh, NC 27610",
+                "rooms": "3",
+                "beds": "4",
+                "bathroom": "1",
+                "size": "732 sft",
+                "price": "$7,225",
+                "popular": false,
+                "image": ["https://cf.bstatic.com/xdata/images/hotel/square200/385236215.webp?k=d18067aa376c95ae9d41d72c23f42f82af7a8679503433eab6a76346053452cd&o="],
+                "availability": "For Rent",
+                "favorite": false
+            }
+        ]
+    },
+
+    {
+        "state": "Mumbai",
+        "properties" : [ 
+            {
+                "id": 11,
+                "address": "8558 Pecan St.",
+                "name": "1 BHK Apartment for Rent in Bandra West Mumbai",
+                "rooms": "1",
+                "beds": "1",
+                "bathroom": "1",
+                "size": "280 sqft",
+                "price": "₹40,000",
+                "popular": false,
+                "image": ["data:image/jpeg;base64,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"],
+                "availability": "For Rent",
+                "favorite": false
+            },
+
+            {
+                "id": 21,
+                "address": "8558 Parker Rd.",
+                "name": "3 BHK Flat for Rent in Lodha World One, Worli, Mumbai",
+                "rooms": "3",
+                "beds": "3",
+                "bathroom": "3",
+                "size": "2198 sqft",
+                "price": "₹3.5 Lac",
+                "popular": true,
+                "image": ["data:image/jpeg;base64,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", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLo3NUT59aF2NEi3xY0JLAZOhiEU8V8qk8Ag&usqp=CAU", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeAQT2Jg0lafSpBSowLURREE9ohAIEADLT0A&usqp=CAU", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuIHNj6OfXvHUInbORHr2iD9K96x-zeSZD6w&usqp=CAU"] ,
+                "availability": "For Rent",
+                "favorite": false
+            },
+
+            {
+                "id": 31,
+                "address": "3890 Popular Dr.",
+                "name": "3 BHK Flat for Sale in Lodha Park, Worli, Mumbai",
+                "rooms": "3",
+                "beds": "3",
+                "bathroom": "3",
+                "size": "1100 sqft",
+                "price": "₹1.7 Lac",
+                "popular": true,
+                "image": ["data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBYVFRgVFRUYGBgaGhgYGBkZGhgcHBgaGBgZGhgZGBgcIS4lHB4rHxgYJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHhISHjQrISs0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP/AABEIAMIBAwMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAFAAIDBAYBBwj/xABHEAACAQIDBAYHBgMFBgcAAAABAgADEQQSIQUxQVEGImFxgZETMlKhscHRQmJysuHwFJKiI1NzgtIHFRZjg8IkMzRDVLPx/8QAGQEAAwEBAQAAAAAAAAAAAAAAAQIDAAQF/8QAJxEAAgICAgAFBQEBAAAAAAAAAAECEQMhEjEEEyJBURQyYXGBQgX/2gAMAwEAAhEDEQA/AJAJ0CdtOgSY43LFlkgEVpjEZEVpJlnMsxhlorR+WICYw20Vo607lmNYy0Vo/LFlgMMtOWkmWLLMYZaK0flnMsJhlorR+WIrMYjtFaOyxZYTDLThEktFaAxFaLLJMsWWGjEVpzLJrTloaAQ5YssmyyHFVMiM/sqT5DSajWCNrbUFM5EsX4ngv1MztbFO5uzsfHTylrZmDOIqHO+VFDVK1T2Ka6u3axvYDiWEK47Z6oWqVqATDvUyKKVRDVw5ygrfUh+rqQbgnNYqd+qgdsz9PEOmquw7iYc2XtfOQj2zHc24HsPIy5hOiThkr06y1KABdK1Maq6dZFdGBKHMBe4IFjci8H9IcIhJxNG2Rqjo6rup1lJzBbfYe2dDyJHCZbDJKL07DtopW2djQ1NWY9a2veNPlFDRrDAjgIgI4CKE5adAnRJKdr6wGI7RZZoBsAtTDoQ2l7cYDdCDYwWGiLLO5Y4ToEIrGZYssktFaYwy06Ej7ToEJhmWLLJbRZZqCRZY20nAiyw0AgtFkk2WdyzUayDJFkk2WcyzUCyEpG5JYyzmWajWVys5lljLOZYaBZBlnVS8myR9LqkHlDRrCDdH3SmajWUWvYkX1ma23TvRqAeyT5a/KH8Zj6lTR2JA4cJTNO+hECizNoxQo1P4ZaVNFUOy1KrmpTvU0vSSxYFVUEnKdcxJ0tDm39oHEUXpphkQtVDhxWw5ACqLpoR7J98zG2tlmg5FuoblG5jkTzEH5YQGh2JVxuEcmgyDMLspqUij2sNQX9YXA0sfCXNoYupWVzVw9FGcDO9GvTph7G6+kQs6OQdxNiOBEyVpYwOCaq4RB3nkOcFDN32EMHgWKDfvbdqNGI0I0M7NdhcOqIqD7ItFHoW0PAjhHNTI4TuWSKDRFO2itACyzhsa6eqxHjGVahY3O+QiOEFBsVp0RWnQITCAnbRwitMAbaOAiAnQsJjkUdliyzAGxR+WLJGMNijwk7lmAR2iAkuSLJGSA2RWncsmCToSHiByIMs7kk4SPFOMoiuRWFOOFKWss6Eh4i8isKUcKUshJ3LaHiDkUsRgUqKUdQyngfiORmaxfQtCb06hUcmGa3joZrqlQCRJTd/VU257h5xZOEVcmGPJvRj6XQ4A9ercclFveYcwOzlQZKSd5GpPeYfp7NUau2bsGg8+MtB1UWUADsnHPxcVqCs6IYW9yYF/3NUPsjxP0ihb08Uh9Tm/BbyoA1cUjb/eJ04ZW1B8tRM0tWqPUqI49lxYn/Mu7+WSptN09eky/eQhx7rMf5Z2ciFBtsGw3a90gNMiRYTbqMbB1J9luq3kbGFFxSt6w+c2gbB+WdCy8aKN6p+f6yF8Ow4X7pqCmQWiAnSJyAI9VlmtgmVVZlIVtxlQGTGuxGUk25TBG2nRGxQgHzojZ2GwUdlzBYVXDXcLYX14ylHK0IDrDWICK86DCgHcsQSdEesZCsaEkipOqY/MJRIm2S1VTKoUNm+0Ta3gJXCx+aIuI0UkI22cCx4EhOIG4ankNZNg6BqqHzAIdQRqSOyJkz48atsaOOcukMaoBOphXfhlHNtPIb5fSkieqLnmdT+kZVxM4J+NlLWNf1nVDwyjuTGJgkTU9c9u7wEdVxEqVMRKWIxQXVmAHaQPjOfhObuTstcYqkXXryu9eCa+10Hq3Y9g08z8oPxG1HO5coJtzIv2mwHlLwwP4ElkQf8A4idgC1Y+34Kfkk5LeQL5obfCo29F8rHzEoY7C00AN3AJsLG4HgYVemB6ro/PKb25Xg3bXqKfvf8AaY8o12InfQOfDo4tnRhydbfG4klPZ7D1AycilQZfBCSvukCLeEV2W+TOB5b5N0hkNWlik3hX7H6rd5ZSfywhQr1PtLb/ADBh9YF/iHU+u3jr8YXwrlkBO8iMYtemB9ZfERrIp9U+BiCxFIbBRBWbILtYDnwkK4tPbXzi2qn9me9fjAipAwhw42n7Y984uOQkKGuTu0P0gc04/CJ1175ghz0k6lQXF7242327IssvYfAko76dVWYX3EqpIuAd2kWUlFWzJNuig9TkDGq55Rm2lxJLmj/DIqEKM61AzsURyF69jYNqeHnYJgcXiy7B6mGCrTSrf0dRgys2VgOtowPDuiQzQnHknoPF8uPv0aB6mugNuF/mZxah5SDayVlXMtamwIBU00yjKdNcxbeQfKV9gGq7deobDgFT5qZGfj8UE230OvDzbqgq1bktt3HznPTHlCdHCZ1ck3KvYEhRpkQ26oHEnzlF6VjOrDmWSKlHp7JTg4umD8VtBkIGW9xff+khG039keZ+kftNOuv4fmZAlOV5MnxQyttVxuVffBtTbT5wHNk1vl0Pqm2pvxtCWJw+UaiZzaKajviNt+46SQa6PYp1U1WdmfK7C50ylwtrdmVT585rNiYn/wAOlzuB+JmIwIy0hzCEHub9Yq9NyxUu+QHRRoB3SHkLJJsZ5eCNli9tUk9Zx4a+8aQZW27f1F8XIHu4+BgNcCgBNtdNTcn1l5w1Sw4ZWBA9bl9xBLwwRiSlmbKVTaLPoaluxBb3+t8ZGEXflYnmRv8A8zEfCOOEZcwF9+lt1j+/jLFLZ1RrAI7dwJ+E6I41RKWQYlQD7CjtZifcmkjFSxzA26w1UWtrwHCFaHRyqfsP4gj4yHDbJdq5ogWYMSbkaZQx+kZpI0ZcrKH8T9+p/MP9MU1X/B1X21/mP+mcm1+Der8kmJoEIxtbd8RAm1VvSvydfhb5zT4rrU27ifdM/tFP7Fu9T7xJ5lsbE9AvALqJrcNUGS3ZMphd8N4erpOSSs6ougZtTDjMSJPs+ndF37uZ5kcO6PxYvCOx6IyDx/M0MXoWS2VzSAiWiDwEJVqEqlbSiFYO2nTtTbTl+ZZn80O1calanUyG4UgXtodb6cxpAOGoOWfOUy36mQNcLc+vc6m1t3bM0FBHG1EARBqzU0cnlnBspHA6du8SvhfXT8S/GT7Rw4LCpnuSLMLWtqx07OtbwkOG9dPxL8REjdbDLs0FNbmGqhy4arbhTqH+hoKpQmRmpOl7Zkdf5lI+cXJG1QYujFL0hw2IylldamdSmuamD1QSwvwseHAROopOyVTTOaomUB8q5gVdc++1iFBup0e+tzBFLoXVCqBXUEWIIRt4N92aXcd0WrVSuauoy66UiTfTiX13DyElj8KoRcV0wzlHknFU+3+x+J2v6TMyIEp2VFUlLkoXd7BDbfUHAXvG4LbC0hfqk6m2axsLkmwBvYXkDdCXO/EtxOlMjU2ufX36Dyjf+AL78Q57qY+sjL/nxm9vRReJkujadC9qjEUaz23VsvlSpn5yzik1lLoZsUYOi9MOzZqhe7ADeiLb+mEa87MWJY1xj0iE5uW32ANpr1l7vmYPxrFUJXeAYW2kvWXu+cjpIv2hccjLUIgWK7tSp+lzFygdswA6rapoB7OvcRAW0d47xNTthwzZhwUKONgNwudZl9ocO+IlS2O3bJqbaMP+Wvmz0x/3Q3iMN1204/KBMGubN3UR/XS/0zTsbsTzMvgjdnPnlVFHE0rKPxoPN0hvC0RZu0k+5R8oPxy9Vf8AEpf/AGLCuG9Ud7fGWUPVRFy9NhLZK5b2Nr93AMZcqM1z1juNtUHDtPP4yts3Unx+B99pzEIbnu11bl2Lruj8VdEMj0mW+IBbzZRcXNzuMo7HcHH1bWtdrWlyjSZmtfLox+0Ra9rEaA9xgDZQYY2tlYXzvqdL6vu7b2kpr2L4tJv9G2faCAkXOmm48NIpSXD1uLDzii8Y/I3mT+DPJq3ep0/yynixek45Ae4gwLgNoYtqqZ8O6Jc5mI0AyneLc7cZoK1HqVO1W9y2+UGTZTGqQAoCEEeUqayws5mjpRMxhrYg6niR77/OBBC+xH6pH3m+CQIwUqpBeOw+ZWUaXDC/K4IhVjKzx0BmI2Dh3SnWR1KkWFiOIDHTmNN8cBxmkx9MWLa3yuLXOXUE3K7r6b+/nM61QgWubcuENUqARu0bQ9ZfxD4ytXxIEjp4wXB7RBoJtFlyhUtAGI2uqXsMzcr2t3nhBlLpaGLWXTcOJuN/v0mbRkmb5a876WefYjpkysqBQC2oJHAHlfjrxlv/AIsIUtlBsCezTwifwJtjVnPSTzzZ3TV3UM6DW+7TjO4npk4dVFhcZraE2BtY99/dCjHoDvKtQzG1OmxVSxC2AJOhJNuA1hbZnSFKzBSMpOq63uO3kZSLQkkyXaXrL3fOVHrACS7Zq2IPYYFwN3ZmbVQbAcz+7ecMpJASsfiK14E2gfV75rsGM11I05WFrX0EB9KcEiZHQj1groCDlJFwbbwDYxe9h6KuAe2v36A/rJ+U1ypu7h8BMxTwDoyKykFqlElSLMApcsbcQLrqLjUXtumtcAtcbja3dYTq8LTs5fFWqKuPXRP8Sn7nEIUPV8X/ADGUscvVX/ET84l6gOr4v+czoS9TOdv0Iu4FyC2UKdCNWt9lr8DOODc9VPBgTxHGxiwI0a/M8/YPv98svvI14j7QB0P3ezhF/wBMDfRJhajBwQtzZtAU5txzDmZndmsTiarZCT6RjYZbjrNxJt75oqVw41sPHiTYDhfUQDsVC2Iqn7zk6XtZ+PZrJy+5FIy9LNcMaf7qp/R/rikSnkR74olRB5kgBTpkEE1XNuBFOx7NEBjXbqsOYYe6DcZtvA0PXeirDgqqzdllUFpn8b/tCoC4o0qlQ8C1kU+Ju39MXK0dWJMKU5MomKwG28RXqKgZKKEi5C52sNSLtpcgW3cZs6lRV3nfu7ZyydHSkPZpSx226mHoO9FUZw4urk+oRqyqCMxBA0uNLxmNWszL6JQVsc2Y210y6ceMhfYLVB/a4cP3OV8rMLSXNIoogROn+NqqVDUkOuqIcw7s7MPdNR0OXFKHNZs6vZgXq52DW+zq1lOmmlrCUqXRaguv8C9+yq59weE1ZMKmY0HpoN7O7ZRwF2drDWwmeVPoyhXYTx+IygK1rNcX5Gx08oNfZSOLLXyHnlB+JlBukCYi9NfRtcX6r5mWx0YZW0sSIJV8URrRqDuUn4GCTn8hSj8DtudHmSlUqjHM5RS+T0arcKLkZg2h5aTGbP2m5axZiPvWm1rekOHrqyVAzU3ADoy3uLC2YazJ7L6N1c13IRbb9CdOwysft29k392g1hcaMjljc5iO0nMQABzsBB2FSotz6JtWZt66ZmJtv7ZK9dKbkMwBBOtjc679BJl2tT9v3P8ASG3RqRDWwNR6q1chGVcuXq9tzvtxlwU6hVkKEBlIvddLi3OQHaqe2fJ/pF/vhP7xvJ/pBcjUiOjs6sihVUGw33/SMOy62f0hGuXLa/bflJ/970/bb+V/pOf74pe2f5an0m2bRVxOBrspXIBcEXv+ksYKvkR3JyOF9Go+0HqHILdwJPcJ07Zo+2f5H+kfQ2pRdgisSWuo6jDU6DUjtEaK2LIMdJNs1UVS1IAZnQHMDcoSrWtrvXiBMwOlFVQVRVUXzX1JvDnSvZ2tNDVdgxrNZ7EizrbdYXOYm8ANsIe2fIQSaTphirVolwe3cTUcJ6ZlXe2Tq6DtHl4y9jMaEBbed9ydb878+2BwgphTS1LL1i5UG4Zh1VuBbSNd3Orui+K6fy3MVq2OnSNNs/pTUrYZ0qlWIbKCQDdSBa+a4JvfWF+iu1s7CgqHKqsc5IuTmY6AaZbW00teefM6X61Qt3An3ky/svpF/DMWpIGJFuvqNeQBEthkoS5Ilmg5x4nqeMFwv40/OI3ae1UwyK1RXId2QZFzG5ZyLjlod0wmI2xiK2VnaxAvlQZQNb7hvO7fOtteqyqrOWCtnUPZrNYi+Y9bczceMvLxat8Uc8fCOkpM9S6PbRSomem4YZteDL1SLOrWKnvEJvTW5OXW99179+k8iw+0bOH1RxuqISrDvtqR2aiGqXSPE26mIpuOIqU1JPe9Mr8JBZ03b0PLwrqos9CUhuqDl1G7fpuGUaXsLQD0eoMz1Cv3/ey298Dr00xKDrYai55pVZQO0hxLPQ/ajPVdCir1Wa5cX3pqF466b5SORN0mTeCUYtyNhSZgAMrafd/WKP7wYpT+HPSPmfDYTMbKLnkoufIQ5gOj9dvVoPrxYZR/Vaa7YuJqooBwzJoNBTA9yiHqWKc/+2w7xacEsjPXjAzuyuh2Uhqr2O/Kmnmx3+AEP4vZyeiKIOsBdSSScw3XY624eMsAvxUxjPbfcd8lbY1JGWwO0zfU68QeHZDdPbFpkulVJqVX0yA5HPWABOV+Ztwbf3g85Qp7Y7T/ACv9JnFmUjevt+0q4jGGsMr6qbgqdQQRxB3zJLj824Me5HPyhfDu7KAqspupOdGXq5gW9YC9wCB3x8ap9CzdoxvQx8tdr3ByEaXvfOnKeuVtoDcg/wA3DwHGeUdFerjXHL0g8mH0mox+02e9OiSAdGcaHuTl+Ly5ys4ptWTTaWglW23TOITDXzu7EOb6IMpPWPPS1uHG3HQLscN3dkBdFegiHLWcFbaqdSzX3nU7teO+ejYfChFCi9huJNzJTnH2HjF+5h6vQOk7M7s5JJO9QAN/KZ3+CwWcqiO4BtnzqoNuIGUkjtmt6f7dyL/DU2s7gelb2UO5L8C3Hkv4hMLRY9oAPAjXdb6wxbatgaVl9MPg/wC5qH/qLb8sc1LCgf8Ap33f3g/0QbT2kmbIXsMza2NxpfeTa4G86cJC+PBF7g6X0F7Ddc23ePOMrBoKJTw3/wAZ+V/Si3C/2NN8cq4ViQMIx/6oHuyQRV2hpoeroL+G7u0PlGJjgB6y35n7IPz/AFjbBo0+ydkYLEVfQmi6OQcp9JmUlRcrewsbAnd9kw4nQDDIyuudSrKw6w3qb63H7vMPs3HMjiojBmpsHsDuykHU8jreeyUq61EV0sVdVdfwsLj4xZT4hjHkec/7R8G4enUC2QIyEgjRy+byIG8ctbaXxa7TyDrju7Z6d042azqSL2YeTLqP33zyHHruB9oA+cHJTdjKPFUQYl/V7EX39b5yuTLuEwyubMSLBRpblbj3QiNhp7T/ANP0jNpGUWwATLOzkzOL7l63lu9/whVtgpwZ/wCn6SlisI1DrJcr9q9tOW7hvmUk9I3FrbC6vxE7n7B84Mw+OBkz4kCLQ1k9bEWlHDY52qqqOQL67t287+y8hrl39VWPaAbee6RUcMyFWZ0Qg31Nz5Lfh8TGSVCt7NPjMRpoT++Mp7F6WvQrEJTWorWXKbgsASSVK6qSdeXMaQbischuLFr6chbiOcpfxRAIUBB90anvPGbHcXfuDIlJU+j2vC9KMKyKWqVEJGqGxynlcDWdniGZuZinT9TM5fpIHtyY1RGvtIXsJ5LU6X4k+q1Nfw0qfxZSZVrdI8U/rYirbkrlR5LYTj8n5OzzD12ttdlNrAG1wCN45wdW2w7tY2AOn6zKbDxJK0WYklvSKSSSSc+lye6G2WMopewrk2Ftm7LcnPWYE8EW+UX5k6sfIa8d8NJhFHD3ytQx6pSQvvKiw+0eUF4zaD1NDovBRu8ec5uMpS2W5RitF/F7RVerT1PtcB3DjBWKxaopd3twuTvJ3Acz2QdtPaiUFu12Y+qq+s30HbMPjcXXxFQMysQCMqqDZRfgOfbOmEFFEZSbJ8Ev/jKq82qr5MT8p6v0W6M6CpWWy71Q725FxwXs492+Lop0Yp5xiHogOCW6wFyzbyfM/vfurC3vk8mW9IaEa2yQECB+k23VwlBqpF3PVprxdzuHcN57B3QkXC+PfMr0z2KuIVGzBXpk5C650Oa2ZXU6WOUHstIwSvZSXWjy2tjHd2d2LMxLMTY3Jvc2OnHdwhDZ9S+lu7s38OO+U+kezP4dVfOWYmzLlCWOpuliQV04briZ+ntV19UsD2H9J2VyWjn6ewzh8M7MKnskMTuGh087axmRbhUfUeR8bc7eUEHarkWLNblcfSNXaJHA+Y+kCjL3M5Jhp6bKLNpfdwBt3fGVnpkm9953do+cqvtliFBHqiw4+JvxjDtQ7rHW3Lh4d/nBxkG4hrZN1drgHq33cmHK3Oepf7Ptq+kovRJOak2l9T6NyWXyYOO4CeQ7Hd8RVWmrMtwQW32G/wBUC7XIGgnqnQbYpw2Z6jZqjqFNtyqNbdpPE9nfdci9O+xod6NniaKuhVhodD9RPJumvRl0Yuo+8CNzgdnBhPWg8biaauhVhe4Pw58JKEuLKSVo+dsJve3Z84UwmKvoYW6Q7KpIGqU1KvcZ17De5tzvbUdsy78xoZdonGRoFaddAYIwuP4N++76QklUHUSbVDp2DK2x0DBwcq366jl908JDtDE5HtTyhbAgqBfiCCfCGmw/pVKBgvadfdAe09i1aAzsuZL2zpcre+gY71PYwF+F5SLvsWWuim+Idt7E+MiiEUYU4RG2j5wCYAf2Xsr0lJX11vw5MR8oprejihcNSFvs5t3tEt84o2hbZ5PO2jbxwMYJpcAX/hqeRczLVdbXtvUtNPgjUIGcKvYLk+Z+kCdEf/K7qx99MTTXsLnQcz9ZKT2MkdAg3aW1gnUSzVOPsp38z2ecqbQ2sWulI2G4vxPYvIdsgwmC3acrD974AkNHCF2LuSzHeTvP75T0fon0XVAKtVRfeiHh95xz5Dh8JOjPRwJapUHX3qvBO0/e+E1TEAfLnIznekPGPux5NpzOLafSRExjm8kUOVHspt7z84LxlTOCNNBoBuvzEtYmle5FxpbQ2+EHPTNtAPfqB2c4UhWYbpYgqNk4LqQR9o/p85isVsVxqnW7OP6z1nE4NXOZlB7SL6crylW2SOCDytLwnROUbPIquGdfWUjvBkVp68cILXyaHkNR32kibNQ/YF+6V838CcDyKlhnb1VJ7gYQobDqNqbL2bz7p6iNlp7IjhspPYEV5WFQMj0bwHoaiMDY3sTxObT5z07DXuDeCKGzEBDKoDc7X8wYYw1PS249hkpSseKoLK+6SM2mnKU6dQZRaSekCixNidB4ybRQyXS3ZgBzgdV9D3218Z5niqRRip8O0T3XF4VaqNTYbxoeRG4zy3pBspgSpFnX3/pulccrVMlJU7Mm6x1LFsm/Ue/9ZxhbQyCtK9i2ajY9S6q27Nr5nT3WmgwtcruO8WINiCDvVgdCOwzL4JsqJ+BPyiFsPXkpLeh11sbtHopTrXbDkUqm/wBGx/s3/A29D2aj8Mx2LwlSkxSojI43qwse8cx2jSehUqss4j0ddPR4hA6fZbc6HmjjUfA8bx4zT0wOLXR5bFeaLbvRZ6ANSmfS0d5cDr0x/wAxRu/ENO6BcDRzuie0yr/MQPnKUJZ7hsqgEo0kt6tOmvkoEUmxFYKxUA2BsNOEUr5TI+aj55qJlZhyYjyJESgS1i6I9I/43/MY1aduEnZVI0PReoEpOWNgrqx8UI3SbGY16xtbKl9F59rc+7dKmxRelXX/AAz/AFH6QpgMEzEKouT+/ARH3Y34GYLBkkAAsSQAALk33ACei9HejvobPUF3toN4S/8A3dvl22+juwUoKHNmdhfNwUEbl+sNMwFu2RnO9IpGNbFu4SHEPbL+IfA299pNeVsSwy3HAg6a3sZIoSAX3zjGd9IOEY0ABjCVqoOgW2/W/DulljIH537YyAVnpaWHVJ1tuF+dhK9BmF1YdYX46EcDcwgCJDWI4+Fu2MgEAUXOmh+kYbq27fu7u2T5Ah0PVbd90/rHsLjNp4j92hANBvu39sesYb3Fh3j5SwhDDt/e+AI1Vkqrf4icjwJjDktYg++doJx4n4a2jCouL/vv5ywIDHANYJ25soVkzAdcDzA4d8MWjbxdp2NpnjO3dkkHMo149v6zM1xpPbtubIDguBv1YD8w7eYnl23NkkElRrxHPtE6YS5EpRoeo/s6Z+4n5RJKFWQ7PqZ6KjinUYcsu73W98adDM17GQZpVZaSrAdGtL1OtJtDJhvCY0obj/8AZDW6PUK1RK1A+idXR3T7LhWDEqPstpw0PLjKSVJMlW2oOseE3H9CyjyNdVqkkkkC/bFAK7VceyfCKdX1UTn+nZ5lV9Zu8/ExDdFFIlgz0f3Ve5PzNN50YQZHNhfnx3c4oos+gx7N6vqjujDv8PrFFOVlhNK7cPxRRQIJ1o1oooQDWjFiihQGVKnrmRncP39qKKMgDqm4zuz93jFFCAe3HvPxMSbz3/WdimMTn6R6RRQBOv8AMfGSRRQGHpGnd4RRQPoKHGYLpOgz7hvb5RRRsf3Al0ZGh679y/EyGpFFLiLoasuUooorCi0snWKKTGJYoopjH//Z", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLo3NUT59aF2NEi3xY0JLAZOhiEU8V8qk8Ag&usqp=CAU", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeAQT2Jg0lafSpBSowLURREE9ohAIEADLT0A&usqp=CAU", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuIHNj6OfXvHUInbORHr2iD9K96x-zeSZD6w&usqp=CAU"], 
+                "availability": "For Sale",
+                "favorite": false
+            },
+
+            {
+                "id": 41,
+                "address": "8558 Green Rd.",
+                "name": " Monte South, Byculla East, Byculla, Mumbai",
+                "rooms": "2",
+                "beds": "2",
+                "bathroom": "3",
+                "size": "2000 sft",
+                "price": "₹2,50,000",
+                "popular": false,
+                "image": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQObtfmvm-LV7LFeWE6PxN0iNIVjdTNVMk-kw&usqp=CAU"],
+                "availability": "For Rent",
+                "favorite": false
+            },
+
+            {
+                "id": 51,
+                "address": "8558 Green Rd.",
+                "name": "Shapoorji Pallonji Vicinia, Sainath Nagar, Powai, Mumbai",
+                "rooms": "3",
+                "beds": "4",
+                "bathroom": "2",
+                "size": "1600 sft",
+                "price": "₹2,25,000",
+                "popular": true,
+                "image": ["data:image/jpeg;base64,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", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLo3NUT59aF2NEi3xY0JLAZOhiEU8V8qk8Ag&usqp=CAU", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeAQT2Jg0lafSpBSowLURREE9ohAIEADLT0A&usqp=CAU", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuIHNj6OfXvHUInbORHr2iD9K96x-zeSZD6w&usqp=CAU"],
+                "availability": "For Sale",
+                "favorite": false
+            },
+
+            {
+                "id": 61,
+                "address": "8558 Green Rd.",
+                "name": "Monte South, Byculla East, Byculla, Mumbai",
+                "rooms": "2",
+                "beds": "2",
+                "bathroom": "2",
+                "size": "800 sft",
+                "price": "₹1,25,000",
+                "popular": false,
+                "image": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuIHNj6OfXvHUInbORHr2iD9K96x-zeSZD6w&usqp=CAU"],
+                "availability": "For Rent",
+                "favorite": false
+            },
+
+            {
+                "id": 71,
+                "address": "8558 Green Rd.",
+                "name": " Lodha Marquise, Siddharth Nagar, Worli, Mumbai",
+                "rooms": "3",
+                "beds": "4",
+                "bathroom": "1",
+                "size": "1650 sft",
+                "price": "₹2,10,000",
+                "popular": true,
+                "image": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7q5ldeaS7KGJZgfmXc2TuGW7dXD16i43vWoGMYc3NlwUf4DDNYalv4fKVksZ_IAEHGng&usqp=CAU", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLo3NUT59aF2NEi3xY0JLAZOhiEU8V8qk8Ag&usqp=CAU", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeAQT2Jg0lafSpBSowLURREE9ohAIEADLT0A&usqp=CAU", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuIHNj6OfXvHUInbORHr2iD9K96x-zeSZD6w&usqp=CAU"],
+                "availability": "For Rent",
+                "favorite": false
+            },
+
+            {
+                "id": 81,
+                "address": "8558 Green Rd.",
+                "name": "Chandivali, Powai, Mumbai",
+                "rooms": "3",
+                "beds": "3",
+                "bathroom": "2",
+                "size": "650 sft",
+                "price": "₹42,000",
+                "popular": false,
+                "image": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeAQT2Jg0lafSpBSowLURREE9ohAIEADLT0A&usqp=CAU"],
+                "availability": "For Sale",
+                "favorite": false
+            },
+
+            {
+                "id": 91,
+                "address": "8558 Green Rd.",
+                "name": "Kanakia Miami, Mahim, Mumbai",
+                "rooms": "",
+                "beds": "1",
+                "bathroom": "1",
+                "size": "600 sft",
+                "price": "₹70,000",
+                "popular": false,
+                "image": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLo3NUT59aF2NEi3xY0JLAZOhiEU8V8qk8Ag&usqp=CAU"],
+                "availability": "For Rent",
+                "favorite": false
+            }
+        ]
+    },
+
+    {
+        "state": "Paris",
+        "properties" : [ 
+            {
+                "id": 12,
+                "address": "8558 Pecan St.",
+                "name": "Rue Carolina",
+                "rooms": "1",
+                "beds": "1",
+                "bathroom": "1",
+                "size": "322 sft",
+                "price": "€1166",
+                "popular": false,
+                "image": ["https://housinganywhere.imgix.net/room/1997363/0326dda3-7580-4d0c-9aed-d9ce497fea98.jpg?ixlib=react-9.2.0&auto=format&w=490&h=300&dpr=1&q=75"],
+                "availability": "For Rent",
+                "favorite": false
+            },
+
+            {
+                "id": 22,
+                "address": "8558 Parker Rd.",
+                "name": "Costco Wholesale - 1021 Oak Forest Ln, Myrtle Beach, SC",
+                "rooms": "1",
+                "beds": "1",
+                "bathroom": "1",
+                "size": "215 sft",
+                "price": "€1324",
+                "popular": true,
+                "image": ["https://housinganywhere.imgix.net/room/1918076/695c8b37-9873-48e7-b82e-eacdb80f96f6.jpg?ixlib=react-9.2.0&auto=format&w=1446", "https://housinganywhere.imgix.net/room/1805531/c2b0ee06-41f3-4ba1-8bd8-5b7a8323f833.jpg?ixlib=react-9.2.0&auto=format&w=1446", "https://housinganywhere.imgix.net/room/1823079/ee624da1-078a-4ba2-bf5f-20d301eeea67.jpg?ixlib=react-9.2.0&auto=format&w=1446", "https://housinganywhere.imgix.net/room/1805478/17b90018-ce6c-4063-9e38-ac49b7bcc798.jpg?ixlib=react-9.2.0&auto=format&fit=clip&cs=srgb&w=1446"],
+                "availability": "For Rent",
+                "favorite": false
+            },
+
+            {
+                "id": 32,
+                "address": "3890 Popular Dr.",
+                "name": "Rue Duhesme",
+                "rooms": "2",
+                "beds": "2",
+                "bathroom": "2",
+                "size": "559 sft",
+                "price": "€1696",
+                "popular": true,
+                "image": ["https://housinganywhere.imgix.net/room/2067255/4505d35e-1d4b-44ee-a192-0b60e551c01b.jpg?ixlib=react-9.2.0&auto=format&w=490&h=300&dpr=1&q=75", "https://housinganywhere.imgix.net/room/1805531/c2b0ee06-41f3-4ba1-8bd8-5b7a8323f833.jpg?ixlib=react-9.2.0&auto=format&w=1446", "https://housinganywhere.imgix.net/room/1823079/ee624da1-078a-4ba2-bf5f-20d301eeea67.jpg?ixlib=react-9.2.0&auto=format&w=1446", "https://housinganywhere.imgix.net/room/1805478/17b90018-ce6c-4063-9e38-ac49b7bcc798.jpg?ixlib=react-9.2.0&auto=format&fit=clip&cs=srgb&w=1446"],
+                "availability": "For Sale",
+                "favorite": false
+            },
+
+            {
+                "id": 42,
+                "address": "8558 Green Rd.",
+                "name": "Rue de la Duee",
+                "rooms": "2",
+                "beds": "2",
+                "bathroom": "2",
+                "size": "581 sft",
+                "price": "€1696",
+                "popular": false,
+                "image": ["https://housinganywhere.imgix.net/room/1822516/871210bd-0038-4280-b356-75f962694413.jpg?ixlib=react-9.2.0&auto=format&w=1446"],
+                "availability": "For Rent",
+                "favorite": false
+            },
+
+            {
+                "id": 52,
+                "address": "8558 Green Rd.",
+                "name": "Rue Blomet",
+                "rooms": "2",
+                "beds": "2",
+                "bathroom": "2",
+                "size": "484 sft",
+                "price": "€2033",
+                "popular": true,
+                "image": ["https://housinganywhere.imgix.net/room/2025154/e48e6d75-566c-4cf4-b46d-4e57be1eed8d.jpg?ixlib=react-9.2.0&auto=format&w=490&h=300&dpr=1&q=75", "https://housinganywhere.imgix.net/room/1805531/c2b0ee06-41f3-4ba1-8bd8-5b7a8323f833.jpg?ixlib=react-9.2.0&auto=format&w=1446", "https://housinganywhere.imgix.net/room/1823079/ee624da1-078a-4ba2-bf5f-20d301eeea67.jpg?ixlib=react-9.2.0&auto=format&w=1446", "https://housinganywhere.imgix.net/room/1805478/17b90018-ce6c-4063-9e38-ac49b7bcc798.jpg?ixlib=react-9.2.0&auto=format&fit=clip&cs=srgb&w=1446"],
+                "availability": "For Sale",
+                "favorite": false
+            },
+
+            {
+                "id": 62,
+                "address": "8558 Green Rd.",
+                "name": "Rue de Milan",
+                "rooms": "4",
+                "beds": "4",
+                "bathroom": "5",
+                "size": "1399 sft",
+                "price": "€8411",
+                "popular": false,
+                "image": ["https://housinganywhere.imgix.net/room/1805478/17b90018-ce6c-4063-9e38-ac49b7bcc798.jpg?ixlib=react-9.2.0&auto=format&fit=clip&cs=srgb&w=1446"],
+                "availability": "For Rent",
+                "favorite": false
+            },
+
+            {
+                "id": 72,
+                "address": "8558 Green Rd.",
+                "name": "Rue Saint-Lazare",
+                "rooms": "5",
+                "beds": "4",
+                "bathroom": "5",
+                "size": "1367 sft",
+                "price": "€9440",
+                "popular": true,
+                "image": ["https://housinganywhere.imgix.net/room/1805499/21ce31db-e8cb-4512-8576-b91d83ef5b7b.jpg?ixlib=react-9.2.0&auto=format&w=1446", "https://housinganywhere.imgix.net/room/1805531/c2b0ee06-41f3-4ba1-8bd8-5b7a8323f833.jpg?ixlib=react-9.2.0&auto=format&w=1446", "https://housinganywhere.imgix.net/room/1823079/ee624da1-078a-4ba2-bf5f-20d301eeea67.jpg?ixlib=react-9.2.0&auto=format&w=1446", "https://housinganywhere.imgix.net/room/1805478/17b90018-ce6c-4063-9e38-ac49b7bcc798.jpg?ixlib=react-9.2.0&auto=format&fit=clip&cs=srgb&w=1446"],
+                "availability": "For Rent",
+                "favorite": false
+            },
+
+            {
+                "id": 82,
+                "address": "8558 Green Rd.",
+                "name": "Ru du Boccador",
+                "rooms": "5",
+                "beds": "4",
+                "bathroom": "4",
+                "size": "2475 sft",
+                "price": "€10931",
+                "popular": false,
+                "image": ["https://housinganywhere.imgix.net/room/1805531/c2b0ee06-41f3-4ba1-8bd8-5b7a8323f833.jpg?ixlib=react-9.2.0&auto=format&w=1446"],
+                "availability": "For Sale",
+                "favorite": false
+            },
+
+            {
+                "id": 92,
+                "address": "8558 Green Rd.",
+                "name": "Rue Leon Frot",
+                "rooms": "1",
+                "beds": "1",
+                "bathroom": "1",
+                "size": "559 sft",
+                "price": "€1326",
+                "popular": false,
+                "image": ["https://housinganywhere.imgix.net/room/1823079/ee624da1-078a-4ba2-bf5f-20d301eeea67.jpg?ixlib=react-9.2.0&auto=format&w=1446"],
+                "availability": "For Rent",
+                "favorite": false
+            }
+        ]
+    },
+
+    {
+        "State": "New York",
+        "properties" : [ 
+            {
+                "id": 13,
+                "address": "8558 Pecan St.",
+                "name": "111 Lawrence Street #41D",
+                "rooms": "2",
+                "beds": "2",
+                "bathroom": "1",
+                "size": "469 sft",
+                "price": "$3,677",
+                "popular": false,
+                "image": ["https://photos.zillowstatic.com/fp/a42cc03fc9a6255c06660d6101e72042-se_large_800_400.webp"],
+                "availability": "For Rent",
+                "favorite": false
+            },
+
+            {
+                "id": 23,
+                "address": "8558 Parker Rd.",
+                "name": "505 51st Street #2",
+                "rooms": "7",
+                "beds": "5",
+                "bathroom": "1",
+                "size": "732 sft",
+                "price": "$2,995",
+                "popular": true,
+                "image": ["https://photos.zillowstatic.com/fp/ea959e0b38fcd95d067343afb4490178-se_large_800_400.webp", "https://photos.zillowstatic.com/fp/0fcbff4e72a91eab6ebfba4d4479f308-se_large_800_400.webp", "https://lennar-media.s3.amazonaws.com/1vB7wLTyzNGDTQRjc3CBDlgDKTj0W_TUT.jpg", "https://photos.zillowstatic.com/fp/31b94a99cdc759d3aa93c2bdb3c40a80-se_large_800_400.webp"],
+                "availability": "For Rent",
+                "favorite": false
+            },
+
+            {
+                "id": 33,
+                "address": "3890 Popular Dr.",
+                "name": "311 11th Avenue #4902",
+                "rooms": "2",
+                "beds": "4",
+                "bathroom": "2",
+                "size": "732 sft",
+                "price": "$8,385",
+                "popular": true,
+                "image": ["https://photos.zillowstatic.com/fp/800433f7eec26b32a466a72935625a58-se_large_800_400.webp", "https://photos.zillowstatic.com/fp/0fcbff4e72a91eab6ebfba4d4479f308-se_large_800_400.webp", "https://lennar-media.s3.amazonaws.com/1vB7wLTyzNGDTQRjc3CBDlgDKTj0W_TUT.jpg", "https://photos.zillowstatic.com/fp/31b94a99cdc759d3aa93c2bdb3c40a80-se_large_800_400.webp"],
+                "availability": "For Sale",
+                "favorite": false
+            },
+
+            {
+                "id": 43,
+                "address": "8558 Green Rd.",
+                "name": "111 Fulton Street #508",
+                "rooms": "4",
+                "beds": "2",
+                "bathroom": "2",
+                "size": "1,243 sft",
+                "price": "$7,100",
+                "popular": false,
+                "image": ["https://photos.zillowstatic.com/fp/cd234a2344c46f2f19164fccd7f0224a-se_large_800_400.webp"],
+                "availability": "For Rent",
+                "favorite": false
+            },
+
+            {
+                "id": 53,
+                "address": "8558 Green Rd.",
+                "name": "280 Ocean Parkway #4D",
+                "rooms": "3",
+                "beds": "1",
+                "bathroom": "1",
+                "size": "800 sft",
+                "price": "$2,100",
+                "popular": true,
+                "image": ["https://photos.zillowstatic.com/fp/1394c9ba788254eb9ddc9c86ebf70c14-se_large_800_400.webp", "https://photos.zillowstatic.com/fp/0fcbff4e72a91eab6ebfba4d4479f308-se_large_800_400.webp", "https://lennar-media.s3.amazonaws.com/1vB7wLTyzNGDTQRjc3CBDlgDKTj0W_TUT.jpg", "https://photos.zillowstatic.com/fp/31b94a99cdc759d3aa93c2bdb3c40a80-se_large_800_400.webp"],
+                "availability": "For Sale",
+                "favorite": false
+            },
+
+            {
+                "id": 63,
+                "address": "8558 Green Rd.",
+                "name": "296 Clinton Street #A3",
+                "rooms": "1",
+                "beds": "4",
+                "bathroom": "1",
+                "size": "732 sft",
+                "price": "$3,200",
+                "popular": false,
+                "image": ["https://photos.zillowstatic.com/fp/31b94a99cdc759d3aa93c2bdb3c40a80-se_large_800_400.webp"],
+                "availability": "For Rent",
+                "favorite": false
+            },
+
+            {
+                "id": 73,
+                "address": "8558 Green Rd.",
+                "name": "Spring Lane Cinemas - 1351 Plaza Blvd, Sanford, NC 27330",
+                "rooms": "2",
+                "beds": "4",
+                "bathroom": "1",
+                "size": "732 sft",
+                "price": "$3,000",
+                "popular": true,
+                "image": ["https://photos.zillowstatic.com/fp/1fec1d7fe05644198b35d303c484c666-se_large_800_400.webp", "https://photos.zillowstatic.com/fp/0fcbff4e72a91eab6ebfba4d4479f308-se_large_800_400.webp", "https://lennar-media.s3.amazonaws.com/1vB7wLTyzNGDTQRjc3CBDlgDKTj0W_TUT.jpg", "https://photos.zillowstatic.com/fp/31b94a99cdc759d3aa93c2bdb3c40a80-se_large_800_400.webp"],
+                "availability": "For Rent",
+                "favorite": false
+            },
+
+            {
+                "id": 83,
+                "address": "8558 Green Rd.",
+                "name": "73-12 35th Avenue #C66",
+                "rooms": "3",
+                "beds": "1",
+                "bathroom": "1",
+                "size": "950 sft",
+                "price": "$2,500",
+                "popular": false,
+                "image": ["https://photos.zillowstatic.com/fp/0fcbff4e72a91eab6ebfba4d4479f308-se_large_800_400.webp"],
+                "availability": "For Sale",
+                "favorite": false
+            },
+
+            {
+                "id": 93,
+                "address": "8558 Green Rd.",
+                "name": "Dollar General - 5416 Rock Quarry Rd, Raleigh, NC 27610",
+                "rooms": "3",
+                "beds": "4",
+                "bathroom": "1",
+                "size": "732 sft",
+                "price": "$7,225",
+                "popular": false,
+                "image": ["https://lennar-media.s3.amazonaws.com/1vB7wLTyzNGDTQRjc3CBDlgDKTj0W_TUT.jpg"],
+                "availability": "For Rent",
+                "favorite": false
+            }
+        ]
+    }
+   
+
+]
