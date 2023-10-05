@@ -61,3 +61,7 @@
 .read-more {
     @apply bg-blue-800 text-white font-semibold p-2.5 rounded-xl hover:bg-white hover:border hover:border-blue-800 hover:text-black transition ease-out duration-300;
 }
+
+body ::-webkit-scrollbar {
+    display: none;
+}

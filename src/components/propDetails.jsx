@@ -67,11 +67,11 @@ const PropDetails = () => {//index of the current image
                         '' 
                         : 
                         <>
-                            <div className='p-2.5 rounded-full absolute -right-2.5 bottom-1/2 bg-gray-200' onClick={() => forward()}>
+                            <div className=' cursor-pointer p-2.5 rounded-full absolute -right-2.5 bottom-1/2 bg-gray-200' onClick={() => forward()}>
                                 <FaGreaterThan className='fill-current text-black'/>
                             </div>
 
-                            <div className='p-2.5 rounded-full absolute -left-2.5 bottom-1/2 bg-gray-200 border' onClick={() => back()}>
+                            <div className=' cursor-pointer p-2.5 rounded-full absolute -left-2.5 bottom-1/2 bg-gray-200 border' onClick={() => back()}>
                                 <FaLessThan className='fill-current text-black'/>
                             </div>
                         </>
